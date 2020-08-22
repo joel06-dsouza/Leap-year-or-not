@@ -27,6 +27,6 @@ class Year{
  else
   {
      System.out.print("It is not a leap year.");
-  }s
+  }
  }
 }
